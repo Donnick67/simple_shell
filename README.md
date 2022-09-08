@@ -1,4 +1,4 @@
-# simple_shell
+# Simple_Shell
 # Description
 This is a simple implementation of a UNIX command line interpreter that can interpret and execute command line arguments.
 
