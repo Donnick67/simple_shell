@@ -20,7 +20,7 @@ Unless specified otherwise, your program must have the exact same output as sh (
 The only difference is when you print an error, the name of the program must be equivalent to your argv[0] (See below)
 
 # List of allowed functions and system calls
-- access (man 2 access)
+- access (man 2 access) 
 - chdir (man 2 chdir)
 - close (man 2 close)
 - closedir (man 3 closedir)
