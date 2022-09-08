@@ -42,7 +42,7 @@ The only difference is when you print an error, the name of the program must be 
 - read (man 2 read)
 - readdir (man 3 readdir)
 - signal (man 2 signal)
-- stat (__xstat) (man 2 stat)
+- stat (__xstat) (man 2 stat) 
 - lstat (__lxstat) (man 2 lstat) 
 - fstat (__fxstat) (man 2 fstat) 
 - strtok (man 3 strtok) 
