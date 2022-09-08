@@ -21,7 +21,7 @@ The only difference is when you print an error, the name of the program must be 
 
 # List of allowed functions and system calls
 - access (man 2 access) 
-- chdir (man 2 chdir)
+- chdir (man 2 chdir) 
 - close (man 2 close)
 - closedir (man 3 closedir)
 - execve (man 2 execve)
@@ -37,7 +37,7 @@ The only difference is when you print an error, the name of the program must be 
 - kill (man 2 kill)
 - malloc (man 3 malloc)
 - open (man 2 open)
-- opendir (man 3 opendir)
+- opendir (man 3 opendir) 
 - perror (man 3 perror)
 - read (man 2 read)
 - readdir (man 3 readdir)
